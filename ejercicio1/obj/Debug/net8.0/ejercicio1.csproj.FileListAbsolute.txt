@@ -1,0 +1,4 @@
+C:\Users\Noeca\OneDrive\Escritorio\Practica 3\ejercicio1\obj\Debug\net8.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noeca\OneDrive\Escritorio\Practica 3\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Noeca\OneDrive\Escritorio\Practica 3\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfo.cs
+C:\Users\Noeca\OneDrive\Escritorio\Practica 3\ejercicio1\obj\Debug\net8.0\ejercicio1.csproj.CoreCompileInputs.cache
